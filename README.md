@@ -120,7 +120,7 @@ Random Forest Classifier (non‑linear, higher accuracy)
 
 **Performance**
 
-Model	                  Accuracy	 ROC‑AUC
+Model,	                  Accuracy,	 ROC‑AUC
 
 Logistic Regression	    ~81%	     ~0.84
 
@@ -194,8 +194,11 @@ Predictive modeling
 
 ├── notebooks/
 │ └── churn_analysis.ipynb
+
 ├── powerbi/
 │ └── churn_dashboard.pbix
+
 ├── data/
 │ └── telecom_churn_final.csv
+
 ├── README.md
