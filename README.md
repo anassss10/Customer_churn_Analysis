@@ -193,12 +193,15 @@ Predictive modeling
 **Repository Structure**
 
 ├── notebooks/
+
 │ └── churn_analysis.ipynb
 
 ├── powerbi/
+
 │ └── churn_dashboard.pbix
 
 ├── data/
+
 │ └── telecom_churn_final.csv
 
 ├── README.md
