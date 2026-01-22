@@ -119,6 +119,7 @@ Logistic Regression (baseline, interpretable)
 Random Forest Classifier (non‑linear, higher accuracy)
 
 **Performance**
+
 Model	                  Accuracy	 ROC‑AUC
 
 Logistic Regression	    ~81%	     ~0.84
