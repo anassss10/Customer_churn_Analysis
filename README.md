@@ -2,7 +2,7 @@
 Data Analysis Project Showcasing Customer Churn Analysis Using Python and Power Bi
 
 
-Project Overview
+**Project Overview**
 
 This project delivers an end‑to‑end, production‑ready customer churn analysis using Python, Machine Learning, and Power BI, designed specifically to demonstrate real‑world business thinking and job‑ready analytical skills.
 
@@ -122,6 +122,7 @@ Random Forest Classifier (non‑linear, higher accuracy)
 Model	                  Accuracy	 ROC‑AUC
 
 Logistic Regression	    ~81%	     ~0.84
+
 Random Forest	          ~83%	     ~0.86
 
 **Key Predictors Identified**
